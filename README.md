@@ -4,12 +4,8 @@
 
 ### 零零后信息安全爱好者
 
-- 📖 Vocation: Researcher && Student 
-
-- 🌱 I’m currently learning C Language
-
-- 💻 GitHub: https://assassins-white.github.io
-
-- :green_heart: Twitter: https://twitter.com/Assassinswhite1
-
-- 📫 How to reach me: assassins-white@foxmail.com
+📖 Vocation: Researcher && Student 
+🌱 I’m currently learning C Language
+💻 GitHub: https://assassins-white.github.io
+💚 Twitter: https://twitter.com/Assassinswhite1
+📫 How to reach me: assassins-white@foxmail.com
