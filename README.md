@@ -4,8 +4,12 @@
 
 ### 零零后信息安全爱好者
 
-📖 Vocation: Researcher && Student          
+📖 Vocation: Researcher && Student     
+
 🔭 I’m currently working on Python
+
 🌱 I’m currently learning C Language
+
 💻 GitHub: https://assassins-white.github.io
+
 📫 How to reach me: assassins-white@foxmail.com
