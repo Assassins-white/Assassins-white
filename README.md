@@ -12,4 +12,6 @@
 
 - 💻 GitHub: https://assassins-white.github.io
 
+- :green_heart: Twitter: https://twitter.com/Assassinswhite1
+
 - 📫 How to reach me: assassins-white@foxmail.com
